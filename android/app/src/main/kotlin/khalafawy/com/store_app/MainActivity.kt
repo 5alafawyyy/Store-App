@@ -1,0 +1,6 @@
+package khalafawy.com.store_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
